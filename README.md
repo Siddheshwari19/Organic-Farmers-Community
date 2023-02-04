@@ -26,7 +26,7 @@
 
 
 ## Screenshots
-![Example screenshot](./OFC screenshots/Screenshot (305).png)
+![Screenshot](OFC screenshots/Screenshot (305).png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
