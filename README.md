@@ -25,8 +25,8 @@
 - Eclipse IDE
 
 
-## Screenshots
-![Screenshot (305)](https://user-images.githubusercontent.com/93153714/216750413-c9f94cf5-0863-4351-a5b5-7d1942e9bfa5.png)
+## Screenshot
+![Screenshot (306)](https://user-images.githubusercontent.com/93153714/216752489-3341c467-9640-4a0f-8b77-88bfde9080d0.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
