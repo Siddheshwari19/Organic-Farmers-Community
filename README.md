@@ -26,7 +26,6 @@
 
 
 ## Screenshots
-<-- ![Screenshot](OFC screenshots/Screenshot (305).png) -->
 ![Screenshot (305)](https://user-images.githubusercontent.com/93153714/216750413-c9f94cf5-0863-4351-a5b5-7d1942e9bfa5.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
