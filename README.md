@@ -1,4 +1,4 @@
-# Project Name
+# ORGANIC FARMERS' COMMUNITY
 > The Organic Farmers Community project aims to encourage traditional farmers to adopt organic farming methods and provide support in marketing and distributing their produce. The project includes features such as a community platform, a guide to transitioning to organic farming, and a marketplace for buying and selling organic products. The rise in health concerns has increased the demand for organic food and our goal is to promote the benefits of organic food and support sustainable agriculture by developing this web application.
 
 ## Table of Contents
