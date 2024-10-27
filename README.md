@@ -4,7 +4,6 @@
 ## Table of Contents
 * [Motivation](#motivation)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
 * [Installation & Setup](#installation-and-setup)
 
 
