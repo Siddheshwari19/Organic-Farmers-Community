@@ -2,13 +2,13 @@
 > The Organic Farmers Community project aims to encourage traditional farmers to adopt organic farming methods and provide support in marketing and distributing their produce. The project includes features such as a community platform, a guide to transitioning to organic farming, and a marketplace for buying and selling organic products. The rise in health concerns has increased the demand for organic food and our goal is to promote the benefits of organic food and support sustainable agriculture by developing this web application.
 
 ## Table of Contents
-* [General Information](#general-information)
+* [Motivation](#motivation)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Installation & Setup](#installation-and-setup)
 
 
-## General Information
+## Motivation
 - The project focuses on encouraging the traditional farmers to take up environment friendly, age old technique of organic farming by providing various facilities like a community to interact with the experts and other community members, a step by step guide as to how can one transition to organic farming and cultivation processes for every crop. 
 - Organic farmers have been facing challenges in marketing and distributing their product, such as lack of access to the markets, and limited audience. This project connects the organic farmers to the targeted audience but providing a marketplace where they can buy and sell the organic produce.
 - With an increasing number of health problems being reported, many people have turned to organic food as a safer alternative. This shift is due to the harmful effects of pesticides in non-organic produce. To encourage farmers to adopt organic farming practices, we have developed a web application. Our goal is to promote the benefits of organic food and support sustainable agriculture.
@@ -25,9 +25,10 @@
 - Eclipse IDE
 
 
-## Screenshot
-![Screenshot (306)](https://user-images.githubusercontent.com/93153714/216752489-3341c467-9640-4a0f-8b77-88bfde9080d0.png)
 
+<!--
+![Screenshot (306)](https://user-images.githubusercontent.com/93153714/216752489-3341c467-9640-4a0f-8b77-88bfde9080d0.png)
+-->
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
